@@ -7,6 +7,10 @@
   Site:
   Twitter:
   Location:
+  
+  Developer: Ross Marks
+  Site: rosssmarkham.com
+  Location: Brighton, UK
 
 /* THANKS */
   Names (& URL):
@@ -14,6 +18,6 @@
 /* SITE */
   Standards: HTML5, CSS3
   Components: Modernizr, jQuery
-  Software:
+  Software: GitHub, Notepad++
 
 
