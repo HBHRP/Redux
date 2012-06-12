@@ -1,1 +1,0 @@
-<img src="images/cpfa-banner.png">
